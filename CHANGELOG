@@ -1,0 +1,5 @@
+Changes:
+
+2019-1-2
+
+	Added wget and ca-certificates for https sites.
